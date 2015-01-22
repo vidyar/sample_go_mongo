@@ -19,6 +19,7 @@ before_script:
   - mkdir -p shippable/testresults
   - mkdir -p shippable/codecoverage
 
+
 script:
   - export GOPATH=$PWD
   - export PATH=$PATH:$GOPATH/bin
