@@ -1,4 +1,4 @@
-language: go
+language: gotest
 
 go:
   - 1.2
