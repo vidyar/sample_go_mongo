@@ -41,3 +41,5 @@ notifications:
    channels:
      - "chat.freenode.net#test-irc"
      - "chat.freenode.net#testing2"
+
+cache: true
